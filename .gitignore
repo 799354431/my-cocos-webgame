@@ -1,11 +1,11 @@
-
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
 library/
 temp/
 local/
-build/
+build/*
+!build/web-mobile/
 profiles/
 native
 #//////////////////////////
